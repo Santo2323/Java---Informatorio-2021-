@@ -3,6 +3,7 @@ package Complementarios_Level1;
 import java.util.*;
 
 public class EJ4_L1 {
+
     public static void main(String[] args) {
         System.out.println("Por favor ingrese el numero del cual desea su factorial");
         Scanner scan = new Scanner(System.in);
